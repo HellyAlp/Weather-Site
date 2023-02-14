@@ -19,13 +19,13 @@ const Weather = () => {
   const success = useSelector(getSuccess);
 
   const today = data && data.list && data.list.length > 0 ? data.list[0] : null;
-  const location = data && data.list && data.list.length > 0 ? data.city : null;
+  const location = data && data.city ? data.city : null;
   const dayTwo =
     data && data.list && data.list.length > 0 ? data.list[1] : null;
   const dayThree =
     data && data.list && data.list.length > 0 ? data.list[2] : null;
   const dayFour =
-    data && data.list && data.list.length > 0 ? data.list[2] : null;
+    data && data.list && data.list.length > 0 ? data.list[3] : null;
 
   console.log(today);
   const handleSubmit = (event) => {
