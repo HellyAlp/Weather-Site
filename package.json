@@ -1,0 +1,42 @@
+{
+  "name": "weather-22",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@redux-devtools/extension": "3.2.5",
+    "@reduxjs/toolkit": "1.9.2",
+    "axios": "1.2.6",
+    "bootstrap": "5.2.3",
+    "csbbust": "1.0.1",
+    "moment": "2.29.4",
+    "rc-notification": "5.0.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-notifications": "1.7.4",
+    "react-redux": "8.0.5",
+    "react-scripts": "^5.0.1",
+    "react-toastify": "9.1.1",
+    "redux": "4.2.1"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "^3.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }, 
+  "engines": {
+    "node": "14.x"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
