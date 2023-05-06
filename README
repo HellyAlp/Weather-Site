@@ -1,5 +1,7 @@
 https://weather-wizard-forecast.netlify.app/
 
+![](https://github.com/HellyAlp/Weather-Site/blob/main/giphy.mp4)
+
 This web application is built based on React/Redux and Bootstrap.
 
 User can check the current weather, for any city in the world.
