@@ -1,6 +1,7 @@
-# https://weather-wizard-forecast.netlify.app/
+# Weather App
+https://weather-wizard-forecast.netlify.app/
 
-![](http://github.com/HellyAlp/Weather-Site/blob/main/demo.gif)
+![](https://github.com/HellyAlp/Weather-Site/blob/main/demo.gif)
 
 This web application is built based on React/Redux and Bootstrap.
 
